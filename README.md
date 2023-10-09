@@ -8,4 +8,4 @@ I'm a Jr Software Developer
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark" alt="c" width="100" height="100"/> </p>
-<p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="c" width="100" height="100"/> </p>
+<p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="c" width="100" height="100"/> </p>
